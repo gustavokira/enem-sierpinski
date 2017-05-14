@@ -19,7 +19,7 @@ De acordo com o procedimento descrito, a figura 4 da seqüência apresentada aci
 
 ```
 
-<img src=“triangles.jpg”/>
+<img src=“triangulos.jpg”/>
 
 Crie um novo sketch e construa as figuras 1,2 e 3 e faça a também a figura 4 da sequência. 
 Recomendo olhar as seguintes funções do Processing 3 antes de começar:
