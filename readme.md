@@ -20,6 +20,7 @@ De acordo com o procedimento descrito, a figura 4 da seqüência apresentada aci
 ```
 
 ![triangulos](https://github.com/gustavokira/ifpr-fractal/blob/master/triangulos.jpg)
+figuras 1, 2 e 3.
 
 Crie um novo sketch e construa as figuras 1,2 e 3 e faça a também a figura 4 da sequência. 
 Recomendo olhar as seguintes funções do Processing 3 antes de começar:
