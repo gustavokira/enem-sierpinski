@@ -15,14 +15,15 @@ pode ser obtido por meio dos seguintes passos:
 3. posicione essas cópias de maneira que cada triângulo tenha um vértice comum com um dos vértices de cada um dos outros dois triângulos, conforme ilustra a figura 2;
 4. repita sucessivamente os passos 2 e 3 para cada cópia dos triângulos obtidos no passo 3 (figura 3).
 
-<img src=“triangles.jpg”/>
-
 De acordo com o procedimento descrito, a figura 4 da seqüência apresentada acima é:
+
 ```
+
+<img src=“triangles.jpg”/>
 
 Crie um novo sketch e construa as figuras 1,2 e 3 e faça a também a figura 4 da sequência. 
 Recomendo olhar as seguintes funções do Processing 3 antes de começar:
-[triangle()](https://processing.org/reference/triangle_.html)
-[fill()](https://processing.org/reference/fill_.html)
-[background()](https://processing.org/reference/background_.html)
-[size()](https://processing.org/reference/size_.html)
+- [triangle()](https://processing.org/reference/triangle_.html)
+- [fill()](https://processing.org/reference/fill_.html)
+- [background()](https://processing.org/reference/background_.html)
+- [size()](https://processing.org/reference/size_.html)
